@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-basile--rosier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/basilerosier" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-basilerosier-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Silba57" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Silba57-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -71,7 +71,7 @@ const basile = {
 
 ## 🚀 Featured Projects
 
-### 🗂️ [Folio](https://github.com/basilerosier/folio) — AI-powered CV & Cover Letter Generator
+### 🗂️ [Folio](https://github.com/Silba57/folio) — AI-powered CV & Cover Letter Generator
 > SaaS platform that generates tailored CVs and cover letters using Claude AI.  
 > **Stack:** Next.js · TypeScript · Supabase · Stripe · Anthropic API  
 > `In progress`
@@ -82,9 +82,9 @@ const basile = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=basilerosier&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Silba57&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilerosier&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silba57&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="160"/>
 
 </div>
 
