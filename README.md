@@ -78,13 +78,19 @@ const basile = {
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contributions
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Silba57&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="160"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silba57&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="160"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Silba57/Silba57/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Silba57/Silba57/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Silba57/Silba57/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
